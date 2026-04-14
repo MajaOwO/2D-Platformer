@@ -9,12 +9,21 @@ public class PlayerHealth : MonoBehaviour
     private bool canReceiveDamage = true;
     public float InvincibilityTime = 2;
 
+
+
     public delegate void HealthChangeHandler(float newHealth, float amountChange);
     public event HealthChangeHandler OnHealthChanged;
+
+    public delegate void HealthInitializedHandler(float newHealth);
+    public event HealthInitializedHandler OnHealthInitialized;
+
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         health = MaxHealth;
+        OnHealthInitialized?.Invoke(health);
     }
 
     // Update is called once per frame
@@ -24,6 +33,7 @@ public class PlayerHealth : MonoBehaviour
     }
     public void AddDamage(float damage)
     {
+       
         if (canReceiveDamage)
         {
             health -= damage;
