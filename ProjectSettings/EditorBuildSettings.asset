@@ -8,6 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/GameFall.unity
+    guid: 7cce9a97ef1f0644988f8c087131e3a9
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 1.unity
+    guid: 56d24d252f01b704cb612e4dce63e2f4
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 2.unity
+    guid: 5fbcc66a3163a6f4dae12d9f48499774
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 3.unity
+    guid: d8a32a103f037c145ac00274d778f8d8
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 4.unity
+    guid: 1f31c029a7a709847b90d414cbae5730
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
