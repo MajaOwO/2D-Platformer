@@ -8,6 +8,8 @@ public class PlayerHealth : MonoBehaviour
     private float health;
     private bool canReceiveDamage = true;
     public float InvincibilityTime = 2;
+    private float Coins;
+
 
 
 
@@ -16,6 +18,10 @@ public class PlayerHealth : MonoBehaviour
 
     public delegate void HealthInitializedHandler(float newHealth);
     public event HealthInitializedHandler OnHealthInitialized;
+
+    public delegate void CoinChangedHandler(float addcoin);
+    public event CoinChangedHandler OnCoinChanged;
+
 
 
 
@@ -61,5 +67,13 @@ public class PlayerHealth : MonoBehaviour
         Debug.Log(health);
 
     }
+    public void CoinAmount(float addcoin)
+    {
+        Coins += addcoin;
+        OnCoinChanged?.Invoke(Coins);
+        Debug.Log(Coins);
+    }
+
+
 }
 
