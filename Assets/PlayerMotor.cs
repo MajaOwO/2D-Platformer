@@ -18,7 +18,10 @@ public class PlayerMotor : MonoBehaviour
     private int _JumpCount = 0;
     public int maxJumpCount = 2;
 
+
     public float Jumpforce = 10;
+    private Animator _animator;
+    private float scaleX;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Start()
     {
@@ -28,12 +31,35 @@ public class PlayerMotor : MonoBehaviour
     private void NewMethod()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
+        _animator = GetComponent<Animator>();
+        scaleX = transform.localScale.x;
     }
 
     // Update is called once per frame
     private void FixedUpdate()
     {
-        rigidbody2D.AddForce(new Vector2(direction.x * speed, 0));
+        if (direction.x != 0)
+        {
+            _animator.SetBool("isMoving", true);
+        }
+        else 
+        {
+        _animator.SetBool("isMoving", false);
+
+        }
+
+        if (direction.x > 0)
+        {
+            transform.localScale = new Vector3(scaleX, transform.localScale.y, transform.localScale.z);
+        }
+        else if (direction.x < 0)
+        {
+            transform.localScale = new Vector3(-scaleX, transform.localScale.y, transform.localScale.z);
+        }
+
+
+
+            rigidbody2D.AddForce(new Vector2(direction.x * speed, 0));
         if(_isDashing)
         { return; } 
         if (rigidbody2D.linearVelocityX >= maxSpeed)
