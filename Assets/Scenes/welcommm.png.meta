@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 68b2294704960ca4785acfa26c77ccda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1191238198610077644
+    second: welcommm_0
+  - first:
+      213: 1352814979741555901
+    second: welcommm_1
+  - first:
+      213: -6438785985459778713
+    second: welcommm_2
+  - first:
+      213: 5168716377253506903
+    second: welcommm_3
+  - first:
+      213: 3661546552962944936
+    second: welcommm_4
+  - first:
+      213: -1468711239299009402
+    second: welcommm_5
+  - first:
+      213: -2988090994635106890
+    second: welcommm_6
+  - first:
+      213: -7297243814482066353
+    second: welcommm_7
+  - first:
+      213: -4080596365668228419
+    second: welcommm_8
+  - first:
+      213: -3187403388993687912
+    second: welcommm_9
+  - first:
+      213: -4936357551667088395
+    second: welcommm_10
+  - first:
+      213: 1449616460155022841
+    second: welcommm_11
+  - first:
+      213: 7842468727778887970
+    second: welcommm_12
+  - first:
+      213: -5709902089032677755
+    second: welcommm_13
+  - first:
+      213: -7377049106709051707
+    second: welcommm_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: welcommm_0
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1714
+        width: 421
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43858f87b2fd77fe0800000000000000
+      internalID: -1191238198610077644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_1
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1717
+        width: 418
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc925a7e0a26c210800000000000000
+      internalID: 1352814979741555901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_2
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1714
+        width: 423
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b08e7a246d4a6a0800000000000000
+      internalID: -6438785985459778713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_3
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 1709
+        width: 424
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f60faf828fab740800000000000000
+      internalID: 5168716377253506903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_4
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1711
+        width: 423
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af89e1b03d60d230800000000000000
+      internalID: 3661546552962944936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_5
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 1712
+        width: 424
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68475ffc8e61e9be0800000000000000
+      internalID: -1468711239299009402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_6
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 1718
+        width: 417
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b51b3c621b2886d0800000000000000
+      internalID: -2988090994635106890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_7
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1405
+        width: 156
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f444166c96bfaba90800000000000000
+      internalID: -7297243814482066353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_8
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1405
+        width: 156
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db26890b93fce57c0800000000000000
+      internalID: -4080596365668228419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_9
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 1405
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ea72b518114c3d0800000000000000
+      internalID: -3187403388993687912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_10
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 1405
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f090f5f88e7bb0800000000000000
+      internalID: -4936357551667088395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_11
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 1405
+        width: 156
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd69187d721e1410800000000000000
+      internalID: 1449616460155022841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_12
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 1405
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229ce59b1cb06dc60800000000000000
+      internalID: 7842468727778887970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_13
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 1405
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58642f86d4a52c0b0800000000000000
+      internalID: -5709902089032677755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcommm_14
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1405
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c68ef73ce47f9990800000000000000
+      internalID: -7377049106709051707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      welcommm_0: -1191238198610077644
+      welcommm_1: 1352814979741555901
+      welcommm_10: -4936357551667088395
+      welcommm_11: 1449616460155022841
+      welcommm_12: 7842468727778887970
+      welcommm_13: -5709902089032677755
+      welcommm_14: -7377049106709051707
+      welcommm_2: -6438785985459778713
+      welcommm_3: 5168716377253506903
+      welcommm_4: 3661546552962944936
+      welcommm_5: -1468711239299009402
+      welcommm_6: -2988090994635106890
+      welcommm_7: -7297243814482066353
+      welcommm_8: -4080596365668228419
+      welcommm_9: -3187403388993687912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
